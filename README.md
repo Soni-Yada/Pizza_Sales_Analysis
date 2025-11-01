@@ -16,8 +16,11 @@ Present findings using Gamma for an engaging, data-driven presentation.
 Tools & Technologies-
 
 Power BI-	Data loading, cleaning, transformation, modeling, and dashboard creation
+
 SQL Server-	Data querying, aggregation, and validation using SQL
+
 Gamma-	Final presentation and storytelling of insights
+
 Excel/CSV- 	Source data format before import
 
 Project Workflow-
